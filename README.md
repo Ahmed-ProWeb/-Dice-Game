@@ -50,3 +50,5 @@ The first player to reach **100 points** wins! 🏆
 - Mobile-friendly responsive design.  
 
 ---
+## 🎮 Game Screenshot
+![Game Screenshot](./1.PNG)(./2.PNG)
