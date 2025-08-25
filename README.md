@@ -51,4 +51,6 @@ The first player to reach **100 points** wins! 🏆
 
 ---
 ## 🎮 Game Screenshot
-![Game Screenshot](./1.PNG)(./2.PNG)
+![Game Screenshot](./1.PNG)
+![Game Screenshot](./2.PNG)
+
